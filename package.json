@@ -13,6 +13,14 @@
     "open",
     "window"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansui-orz/opendir.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sansui-orz/opendir/issues"
+  },
+  "homepage": "https://github.com/sansui-orz/opendir#readme",
   "author": "Michael",
   "license": "ISC",
   "dependencies": {
