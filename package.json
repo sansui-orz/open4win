@@ -1,0 +1,22 @@
+{
+  "name": "opendir",
+  "version": "1.0.0",
+  "description": "open dir command for window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "open": "index.js"
+  },
+  "keywords": [
+    "open",
+    "window"
+  ],
+  "author": "Michael",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.3.0",
+    "inquirer": "^8.2.4"
+  }
+}
